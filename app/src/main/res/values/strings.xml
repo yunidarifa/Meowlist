@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meowlist</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari nama kucing</string>
+    <string name="about">About</string>
+    <string name="created_by">Created By:</string>
+    <string name="rifa_yunidar_maarif">RIFA YUNIDAR MAARIF</string>
+</resources>
